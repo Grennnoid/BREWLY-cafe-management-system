@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brewly - Web-Based Cafe Ordering and Management System
 
 Sistem Pemesanan dan Manajemen Kafe Berbasis Web menggunakan **Laravel 12 (PHP 8.2+)**, dibangun secara presisi mengikuti 4 dokumen diagram:
@@ -61,3 +62,6 @@ Semua akun default menggunakan password: `password123`
 - `order_status_logs` (log_id, order_id, changed_by, old_status, new_status, changed_at)
 - `payments` (payment_id, order_id, confirmed_by, method, status, amount_paid, change_amount, paid_at)
 - `receipts` (receipt_id, payment_id, issued_by, receipt_number, issued_at)
+=======
+# BREWLY-cafe-management-system
+>>>>>>> d301539da5e21cfe8ada113cf676630f65b1340e
